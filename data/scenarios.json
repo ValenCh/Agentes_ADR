@@ -1,0 +1,54 @@
+{
+  "segments": {
+    "warmup": [
+      0,
+      119
+    ],
+    "uptrend": [
+      120,
+      379
+    ],
+    "pullback": [
+      380,
+      413
+    ],
+    "recovery": [
+      414,
+      503
+    ],
+    "rally": [
+      504,
+      573
+    ],
+    "topping": [
+      574,
+      613
+    ],
+    "sideways": [
+      614,
+      833
+    ],
+    "crash": [
+      834,
+      903
+    ],
+    "rebound": [
+      904,
+      1103
+    ]
+  },
+  "scenarios": {
+    "dip": {
+      "index": 413
+    },
+    "rally": {
+      "index": 530
+    },
+    "sideways": {
+      "index": 753
+    },
+    "crash": {
+      "index": 849
+    }
+  }
+}
